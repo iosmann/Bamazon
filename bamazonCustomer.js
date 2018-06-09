@@ -42,7 +42,7 @@ function startSearch() {
             {
                 name: "item_id",
                 type: "input",
-                message: "Please provide the ID of the Item you would like to buy."
+                message: " Welcome to BAMAZON!! Please provide the ID of the Item you would like to buy."
             },
             {
                 name: "amount",
